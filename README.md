@@ -20,6 +20,10 @@ In the project directory, you can run:
  
  npx nodemon
  
+ run this for watching backend
+ 
+ http://localhost:5000
+ 
  -----------------------------
  cd ..
  for running FRONT-END-----
