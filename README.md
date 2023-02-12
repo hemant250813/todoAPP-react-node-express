@@ -8,6 +8,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+#######################
+  OPEN BACKEND ----------
+  cd backend
+  --------------------
+  #####RUN ON TERMINAL
+ 
+ yarn 
+ 
+ for backend port 
+ 
+ npx nodemon
+ 
+ -----------------------------
+ cd ..
+ for running FRONT-END-----
 
 ### `yarn start`
 
